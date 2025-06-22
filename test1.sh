@@ -1,2 +1,1 @@
-jjjjjj
-testing webhooks
+echo "testing webhooks"
